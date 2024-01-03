@@ -62,7 +62,6 @@ class _HomePageState extends State<HomePage> {
                   builder: (context) => TagPage(produtoRepository: ProdutoRepository(client: HttpClient())),
                 ),
               ).then((_) {
-                // Atualizar os produtos na tela quando voltar da TagPage
                 store.getProdutos();
               });
 
@@ -154,14 +153,7 @@ class _HomePageState extends State<HomePage> {
                               fontSize: 15,
                             ),
                           ),
-                          // Text(
-                          //   'Brand: ${item.brand}',
-                          //   style: const TextStyle(
-                          //     color: Colors.black,
-                          //     fontWeight: FontWeight.w400,
-                          //     fontSize:10,
-                          //   ),
-                          // ),
+                       
                           const SizedBox(height: 4),
                           Text(
                             item.description,
