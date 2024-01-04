@@ -4,11 +4,11 @@ O App MultiMix Store é a solução para um desafio proposto por uma empresa com
 
 ## Capturas de Tela
 
-| <img src="![Screenshot_20240104_125939](https://github.com/douglasmouralds/store-flutter/assets/142683965/452c956f-c2da-4684-8b5d-4eb297c63970)
-" alt="Captura de Tela 1" width="200"> | <img src="![Screenshot_20240104_130033](https://github.com/douglasmouralds/store-flutter/assets/142683965/f2d3c61b-ad8c-470b-815a-35fc6e2f641a)
-" alt="Captura de Tela 2" width="200"> | <img src="![Screenshot_20240104_130052](https://github.com/douglasmouralds/store-flutter/assets/142683965/12c2747f-aa18-4735-92dc-93327e99b8d7)
-" alt="Captura de Tela 3" width="200"> |
-| --- | --- |
+| ![Captura de Tela 1](https://github.com/douglasmouralds/store-flutter/assets/142683965/452c956f-c2da-4684-8b5d-4eb297c63970)
+" alt="" width="200"> | ![Captura de Tela 2](https://github.com/douglasmouralds/store-flutter/assets/142683965/f2d3c61b-ad8c-470b-815a-35fc6e2f641a)
+" alt="" width="200"> | ![Captura de Tela 3](https://github.com/douglasmouralds/store-flutter/assets/142683965/12c2747f-aa18-4735-92dc-93327e99b8d7)
+" alt="" width="200"> |
+| --- | --- | --- |
 | *Captura de Tela 1* | *Captura de Tela 2* | *Captura de Tela 3* |
 
 ## Arquitetura:
