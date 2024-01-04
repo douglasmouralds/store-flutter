@@ -97,7 +97,7 @@ class _HomePageState extends State<HomePage> {
           if (store.state.value.isEmpty) {
             return const Center(
               child: Text(
-                'Nenhum item na lista',
+                'No items in the list',
                 style: TextStyle(
                   color: Colors.black54,
                   fontWeight: FontWeight.w600,
@@ -153,7 +153,6 @@ class _HomePageState extends State<HomePage> {
                               fontSize: 15,
                             ),
                           ),
-                       
                           const SizedBox(height: 4),
                           Text(
                             item.description,
