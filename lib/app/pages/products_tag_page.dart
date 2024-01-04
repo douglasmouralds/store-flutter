@@ -20,7 +20,7 @@ class ProductsPage extends StatelessWidget {
     if (products.isEmpty) {
       return Center(
         child: Text(
-          'Nenhum item na lista',
+          'No items in the list',
           style: const TextStyle(
             color: Colors.black54,
             fontWeight: FontWeight.w600,
