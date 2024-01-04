@@ -82,15 +82,15 @@ class TagPage extends StatelessWidget {
       } else {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
-            content: Text('Nenhum produto encontrado para a tag $tag.'),
+            content: Text('No products found for the tag $tag.'),
           ),
         );
       }
     } catch (e) {
-      print("Erro ao obter produtos: $e");
+      print("Error getting products: $e");
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
-          content: Text('Erro ao obter produtos. Tente novamente mais tarde.'),
+          content: Text('Error getting products. Try again later.'),
         ),
       );
     }
