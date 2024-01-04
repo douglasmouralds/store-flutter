@@ -33,16 +33,16 @@ class ProdutoRepository implements IProdutoReposity {
 
           return produtos;
         } else {
-          throw Exception('Formato de resposta inválido');
+          throw Exception('Invalid response format');
         }
       } else if (response.statusCode == 404) {
-        throw NotFoundException('A URL informada não é válida');
+        throw NotFoundException('The URL provided is not valid');
       } else {
-        throw Exception('Não foi possível carregar os produtos');
+        throw Exception('Unable to load products');
       }
     } catch (e) {
-      print("Erro ao obter produtos: $e");
-      throw Exception('Erro ao obter produtos');
+      print("Error getting products: $e");
+      throw Exception('Error getting products');
     }
   }
 }
