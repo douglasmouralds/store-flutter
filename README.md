@@ -1,13 +1,10 @@
 # MultiMix Store
 
-O App MultiMix Store é a solução para um desafio proposto por uma empresa como parte de seu desafio de código.
+O App MultiMix Store é a solução para um desafio de código proposto por uma empresa.
 
 ## Capturas de Tela
 
-| ![Captura de Tela 1](https://github.com/douglasmouralds/store-flutter/assets/142683965/452c956f-c2da-4684-8b5d-4eb297c63970)
-" alt="" width="200"> | ![Captura de Tela 2](https://github.com/douglasmouralds/store-flutter/assets/142683965/f2d3c61b-ad8c-470b-815a-35fc6e2f641a)
-" alt="" width="200"> | ![Captura de Tela 3](https://github.com/douglasmouralds/store-flutter/assets/142683965/12c2747f-aa18-4735-92dc-93327e99b8d7)
-" alt="" width="200"> |
+| <img src="https://github.com/douglasmouralds/store-flutter/assets/142683965/452c956f-c2da-4684-8b5d-4eb297c63970" alt="Captura de Tela 1" width="300"> | <img src="https://github.com/douglasmouralds/store-flutter/assets/142683965/f2d3c61b-ad8c-470b-815a-35fc6e2f641a" alt="Captura de Tela 2" width="300"> | <img src="https://github.com/douglasmouralds/store-flutter/assets/142683965/12c2747f-aa18-4735-92dc-93327e99b8d7" alt="Captura de Tela 3" width="300"> |
 | --- | --- | --- |
 | *Captura de Tela 1* | *Captura de Tela 2* | *Captura de Tela 3* |
 
@@ -42,4 +39,3 @@ O aplicativo trata possíveis erros, como falha na obtenção de produtos ou URL
 ## Interface do Usuário:
 
 O aplicativo possui uma interface de usuário amigável com detalhes de produtos, imagens, preços e informações de estoque.
-Foram utilizados widgets do Flutter para criar uma experiência visual atraente.
